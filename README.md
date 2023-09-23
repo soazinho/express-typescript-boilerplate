@@ -1,6 +1,5 @@
-# express-typescript-boilerplate
+# express-typescript-server-boilerplate
 
 ## Prerequisites
-- Yarn 2
-- NodeJS >= 18.12.1
-- npm >= 8.19.2
+- NodeJS >= 18.18.0
+- npm >= 9.8.1
