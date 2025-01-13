@@ -1,5 +1,6 @@
 # express-typescript-server-boilerplate
 
-## Prerequisites
-- NodeJS >= 18.18.0
-- npm >= 9.8.1
+- NodeJS >= 22.13.0
+- npm >= 10.9.2
+
+Look at package.json for available scripts.
