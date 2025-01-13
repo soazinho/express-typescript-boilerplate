@@ -2,7 +2,6 @@
   "name": "express-typescript-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "dev": "nodemon app.ts",
     "build": "tsc -p .",
